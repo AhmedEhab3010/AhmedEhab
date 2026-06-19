@@ -19,11 +19,16 @@ I enjoy building hands-on labs and working on real-world security projects to st
 - Log Management
 
 ## Tools & Technologies
-- Snort IDS
-- ELK Stack (Elasticsearch, Logstash, Kibana)
-- Wireshark
-- Linux
-- Windows Server
+- Snort Intrusion Detection System (IDS)
+- Filebeat
+- Logstash
+- Elasticsearch
+- Kibana
+- Burp Suite
+- Cisco Packet Tracer
+- Ubuntu Linux
+- Kali Linux
+- VirtualBox
 
 ## Projects
 
